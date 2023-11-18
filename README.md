@@ -49,7 +49,8 @@ options:
 I've created a chart to help you understand how the crawler works. It's a bit of a simplification, but it should help you understand the basics.
 You can run the chart with `python src/chart.py` in another terminal window to get the realtime chart updating the crawl progress.
 
-
+![image](https://github.com/sonpython/GPTSiteCrawler/blob/main/screenshot1.png?raw=true)
+![image](https://github.com/sonpython/GPTSiteCrawler/blob/main/screenshot2.png?raw=true)
 
 ## Docker
 env vars
